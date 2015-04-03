@@ -1,0 +1,80 @@
+#primary, #secondary{float:none!important; width:100%!important;}
+#content {margin-right:0;}
+
+#primary, #secondary{float:none!important; width:100%!important;}
+#content {margin-right:0;}
+#branding img {display:none;}
+
+#special-version-controls {
+	position: absolute;
+	background: #d6d6d6;
+	top: 0;
+	width: 100%;
+	font-family: 'PT Sans Narrow', sans-serif;
+	margin: 0 auto;
+	text-align: center;
+	height: 40px;
+	line-height: 40px;
+	z-index: 1000;
+}
+#special-version-controls div{
+	font-family: 'PT Sans Narrow', sans-serif;
+	display:inline;
+	color:#000;
+	margin: 0 20px 0 0;
+	font-size: 18px;
+}
+#special-version-controls a {
+	display:inline-block;
+	margin:0 3px;
+	text-decoration:none;
+	width:28px;
+	height:28px;
+	line-height:28px;
+	color:#000;
+	text-align:center;
+	font-weight: 400;
+}
+#special-version-controls a:hover {
+	text-decoration: underline;
+}
+#special-version-controls #cr_version_link {
+	background: url('../img/eye-icon.png');
+	padding-left: 36px;
+	background-repeat: no-repeat;
+	background-position-y: -2px;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-weight: 400;
+	color: #000!important;
+	width: 148px!important;
+	background-color: transparent!important;
+	cursor: pointer;
+	font-size: 18px!important;
+	line-height: 28px!important;
+	margin-left: -3px;
+	display: inline-flex;
+}
+#crfont-style a {
+	width:10px;
+	font-size:18px;
+}
+#comfread {
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 19px;
+	font-weight: 400;
+	line-height: 27px;
+	color: rgb(0, 0, 0);
+	background-color: transparent!important;
+	position: inherit!important;
+	text-align: center;
+	left: 0!important;
+	top: 0!important;
+	cursor: pointer;
+	z-index: 99999;
+}
+#wp_cr_plugin-2 {
+	display:none!important;
+}
+#cr_widget {
+	display:none!important;
+}

@@ -1,0 +1,36 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow&subset=cyrillic,latin);
+
+#cr_widget a {
+	text-align: center;
+	font-family: 'PT Sans Narrow', sans-serif;
+	cursor: pointer;
+	background: #DB151C;
+	box-shadow: 0 -3px 0 rgba(0, 0, 0, 0.1) inset;
+	border: 0 none;
+	border-radius: 6px;
+	overflow: hidden;
+	font-size: 15px;
+	padding: 13px 18px 16px;
+	text-decoration: none;
+	color: #fff;
+	display: inline-block;
+	font-family: arial;
+	font-weight: bold;
+	line-height: 100%;
+	text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.12);
+	margin-top: -3px;
+}
+#cr_widget a:hover {
+	-o-box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.14) inset;
+	-moz-box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.14) inset;
+	-webkit-box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.14) inset;
+	box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.14) inset;
+	text-decoration: underline;	
+}
+#cr_version_link {
+	font-family: 'PT Sans Narrow', sans-serif;
+	color: #FFF;
+	cursor: pointer;
+	font-size: 17px;
+	line-height: 28px;
+}
