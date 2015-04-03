@@ -1,4 +1,4 @@
-=== Comfortable Reading ===
+﻿=== Comfortable Reading ===
 Contributors: Flaeron
 Donate link: http://wordpress-club.com/comfortable-reading
 Tags: reading, font, size, color, vision, assistive
@@ -12,13 +12,16 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Comfortable Reading - простой плагин для WordPress, который создает версию вашего сайта для слабовидящих людей, и тем самым дает возможность слабовидящим пользователям пользоваться вашим сайтом с удобством. Плагин позволяет пользователю изменить цветовую схему сайта и размеры шрифтов.
+[Comfortable Reading](http://wordpress-club.com/comfortable-reading "Comfortable Reading") - простой плагин для WordPress, который создает версию вашего сайта для слабовидящих людей, и тем самым дает возможность слабовидящим пользователям пользоваться вашим сайтом с удобством. Плагин позволяет пользователю изменить цветовую схему сайта и размеры шрифтов.
 
-Особенности плагина:
+= Особенности плагина: =
 
 * Быстрая установка
 * Не требует дополнительных настроек
 * Дает пользователю возможность изменять размер шрифта и цветовую схему сайта
+
+Демо и скриншоты смотрите тут - [Comfortable Reading](http://wordpress-club.com/comfortable-reading "Comfortable Reading")
+
 
 == Installation ==
 
@@ -38,10 +41,6 @@ Comfortable Reading - простой плагин для WordPress, которы
 
 Да, плагин абсолютно бесплатен.
 
-== Screenshots ==
-
-1. Скриншоты, видео и демо примера смотрите тут: http://wordpress-club.com/comfortable-reading
-
 == Changelog ==
 
 = 1.0 =
@@ -54,4 +53,4 @@ Comfortable Reading - простой плагин для WordPress, которы
 
 == Help / Support ==
 
-Если у вас возникли какие-либо вопросы, задавайте их на странице плагина [Comfortable Reading Plugin Page](http://wordpress-club.com/comfortable-reading "Comfortable Reading Plugin Page")
+Если у вас возникли какие-либо вопросы, задавайте их на странице плагина [Comfortable Reading](http://wordpress-club.com/comfortable-reading "Comfortable Reading")
